@@ -6,13 +6,17 @@ This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, whi
 Emoji are also supported in Markdown! :thumbsup: :shipit:
 See the [Emoji Cheat Sheet](http:http://emoji-cheat-sheet.com) for the complete list.
 You can learn more about Markdown here - and you can also create a link automatically like this - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf 
-
 ## More about Markdown
-First, the simple stuff: *This is Italic* **This is Bold**
+First, the simple stuff: 
+*This is Italic* 
+**This is Bold**
+
 You can also create unordered lists:
 * Item 1
 * Item 2
 * Item 3
+  * Item 3a
+  * Item 3b
 And also ordered lists (of course):  
 1. Item 1
 2. Item 2
