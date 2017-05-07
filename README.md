@@ -3,8 +3,10 @@ My 2017 STC Summit hello repo
 Sample Markdown
 # Welcome to the ReadMe for this Project
 This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, which includes syntax highlighting, task lists, tables, and @mentions. (@Name, did I miss anything?) 
-Emoji are also supported in Markdown! :thumbsup: :shipit:See the [Emoji Cheat Sheet](http:http://emoji-cheat-sheet.com) for the complete list.
+Emoji are also supported in Markdown! :thumbsup: :shipit:
+See the [Emoji Cheat Sheet](http:http://emoji-cheat-sheet.com) for the complete list.
 You can learn more about Markdown here - and you can also create a link automatically like this - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf 
+
 ## More about Markdown
 First, the simple stuff: *This is Italic* **This is Bold**
 You can also create unordered lists:
@@ -23,6 +25,7 @@ Can be handy to keep track of things to do:
 - [x] Task two is done
 - [x] Task three is done
 - [ ] This task is not yet done
+
 ## Code Blocks
 Are easy; just open and close with three backticks.
 ```javascriptvar first    var name    first = name = prompt("Enter new name, or OK to end")    while (name != "" && name != null) {     if (name < first)  first = name     name = prompt("Enter new name, or OK to end")    }    document.write("
