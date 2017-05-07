@@ -1,2 +1,4 @@
 # This is my exciting new file!
-*The first line illustrates italic and **bold** *
+*This is italic*
+**This is bold**
+This is *italic* and **bold**
